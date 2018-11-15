@@ -6,7 +6,7 @@
 2. [Context Analisys](#context-analisys)  
   Finding out what's important.
 
-3. [Test Strategy](test-strategy)  
+3. [Test Strategy](#test-strategy)  
   What to test, and how.
 
 ## Testing Mission
