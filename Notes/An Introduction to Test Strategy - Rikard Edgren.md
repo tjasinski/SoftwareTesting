@@ -1,12 +1,12 @@
 # An Introduction to Test Strategy - Rikard Edgren
 
-1. Testing Mission  
+1. [Testing Mission](#testing-mission)  
   The reason for testing  
 
-2. Context Analisys  
+2. [Context Analisys](#context-analisys)  
   Finding out what's important.
 
-3. Test Strategy  
+3. [Test Strategy](test-strategy)  
   What to test, and how.
 
 ## Testing Mission
@@ -74,7 +74,7 @@ Recognize important problems
   - Requirements
   - Case studies
 
-## Contex Analisys
+## Context Analisys
 
 (Based on James Bach's HTSM)
 
